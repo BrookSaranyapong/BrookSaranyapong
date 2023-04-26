@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saranyapong Choosriphat
 ===============================================================================================================================================
 
-Student
 -------
 
 I' m looking for job Web developer, Programmer, Back-end ,Full-stack
@@ -9,7 +8,7 @@ I' m looking for job Web developer, Programmer, Back-end ,Full-stack
 * 🌍  I'm based in KhonKaen, Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://brooksaranyapong.github.io/personnal-site/)
 * ✉️  You can contact me at [brook.saranyapong@gmail.com](mailto:brook.saranyapong@gmail.com)
-* 🧠  I'm learning C# .dotNet, Go , React.js .
+* 🧠  I'm learning C# dotnet, Go , React.js .
 
 ### Skills
 
