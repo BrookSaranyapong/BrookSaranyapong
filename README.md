@@ -9,7 +9,7 @@ I' m looking for job Web developer, Programmer, Back-end ,Full-stack
 * 🌍  I'm based in KhonKaen, Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://brooksaranyapong.github.io/personnal-site/)
 * ✉️  You can contact me at [brook.saranyapong@gmail.com](mailto:brook.saranyapong@gmail.com)
-* 🧠  I'm learning C# dotnet, Go , React.js .
+* 🧠  Success is not final, failure is not fatal. It is the courage to continue that counts.
 
 ### Skills
 
